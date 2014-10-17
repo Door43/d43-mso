@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mso:home|Door43 (mso)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mso|d43-mso repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mso/archive/master.zip|d43-mso.zip]]
+
+**Recent Changes**
+{{changes>ns = mso}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mso|Ethnologue data]]
+
